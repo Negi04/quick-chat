@@ -4,7 +4,6 @@
 
 Real-Time Messaging, Instant Connections
 
-![Last Commit](https://img.shields.io/github/last-commit/elyse502/quick-chat?style=flat-square) 
 ![Languages](https://img.shields.io/github/languages/top/elyse502/quick-chat?style=flat-square&color=blue)
 
 *Powered by Team JaJmaan Graphic era hill university.:*
