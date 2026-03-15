@@ -8,7 +8,7 @@ Real-Time Messaging, Instant Connections
 ![Languages](https://img.shields.io/github/languages/top/elyse502/quick-chat?style=flat-square&color=blue)
 ![License](https://img.shields.io/github/license/elyse502/quick-chat?style=flat-square)
 
-*Powered by cutting-edge technologies:*
+*Powered by Team JaJmaan Graphic era hill university.:*
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
