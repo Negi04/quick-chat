@@ -260,15 +260,6 @@ cd client && npm run dev
 
 ---
 
-## Deployment
-
-### Frontend
-[![Deploy with Vercel](https://vercel.com/button)](https://quick-chat-nine-beta.vercel.app)
-
-### Backend
-Deploy to Render, Vercel, or other Node.js hosting services with MongoDB connection.
-
----
 
 ## Contributing
 
@@ -278,31 +269,9 @@ Deploy to Render, Vercel, or other Node.js hosting services with MongoDB connect
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
 
 
-## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/elyse502/quick-chat/blob/main/LICENSE) for more information.
-
----
-
-## 📞 Contact
-For any questions or support, please contact:
-- [**NIYIBIZI Elysée**](https://linktr.ee/niyibizi_elysee)👨🏿‍💻 | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse).
-- **Email**: <elyseniyibizi502@gmail.com>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) [![@phenrysay](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niyibizi_Elyse) [![pH-7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502)
-
----
-
-<div align="center">
-
-**Quick-Chat** - Where conversations happen in real-time! 🚀✨
-
-**Made with ❤️ by <i>[Elysée NIYIBIZI](https://elyse502.github.io/Elysee-Portfolio/)</i>**
-
-[⬆ Back to Top](#table-of-contents)
 
 </div>
 
