@@ -165,7 +165,7 @@ quick-chat/
 
 1. Clone the repository:
 ```console
-git clone https://github.com/elyse502/quick-chat.git
+git clone https://github.com/Negi04/quick-chat.git
 cd quick-chat
 ```
 
